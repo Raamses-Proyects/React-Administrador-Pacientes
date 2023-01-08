@@ -22,18 +22,21 @@ Sobre el proyecto
 
 
 CSS
+
     Esta construido con CSS plano y tiene descargado el archivo de normalize CSS, el sitio es
     responsive para mobil, tablet, desktop, etc.
 
 
 
-React
+REACT
+
     Se utilizaron los Hooks de useState(), useEffect() y useContent() para el manejo global de 
     las variables/states
 
 
 
 JavaScript/Funcionalidades
+
     Se tiene las funcionalidades para:
         1.- Generar ID:
             const generarID = () => {
