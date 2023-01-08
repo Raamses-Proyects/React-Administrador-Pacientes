@@ -1,5 +1,5 @@
 # React-Administrador-Pacientes
-Sobre el proyecto:
+Sobre el proyecto
 
     Construir una aplicación que tenga las funcionalidades de un CRUD, para la administración de
     pacientes de una veterinaria.
@@ -22,21 +22,18 @@ Sobre el proyecto:
 
 
 CSS
-
     Esta construido con CSS plano y tiene descargado el archivo de normalize CSS, el sitio es
     responsive para mobil, tablet, desktop, etc.
 
 
 
 React
-
     Se utilizaron los Hooks de useState(), useEffect() y useContent() para el manejo global de 
     las variables/states
 
 
 
 JavaScript/Funcionalidades
-
     Se tiene las funcionalidades para:
         1.- Generar ID:
             const generarID = () => {
