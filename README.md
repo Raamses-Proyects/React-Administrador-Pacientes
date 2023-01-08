@@ -35,7 +35,7 @@ REACT
 
 
 
-JavaScript/Funcionalidades
+JavaScript/Funciones
 
     Se tiene las funcionalidades para:
         1.- Generar ID:
