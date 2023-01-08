@@ -1,5 +1,6 @@
 # React-Administrador-Pacientes
-Sobre el proyecto
+Sobre el proyecto:
+
     Construir una aplicación que tenga las funcionalidades de un CRUD, para la administración de
     pacientes de una veterinaria.
 
